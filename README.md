@@ -10,6 +10,12 @@ Groovy script to clean a release repository in nexus 3
 * Past the script "Cleanup.groovy" in "Script source"
 * Click in "Create Task"
 
+## Options
+
+* *retentionDays* - Number of days to retain an artifact
+* *retentionCount* - Number of artifacts to retain independently of retentionDays
+* *repositoryName* - Repository name
+
 ## Run
 
 To run, you can click in "Run" button in the top of page.
