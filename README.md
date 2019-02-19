@@ -18,7 +18,7 @@ To run, you can click in "Run" button in the top of page.
 
 To see the logs of execution, in server side, you can:
 
-    ```tail -f /usr/local/sonatype-work/nexus3/log/nexus.log ```
+    tail -f /usr/local/sonatype-work/nexus3/log/nexus.log
 
 ## Info
 
